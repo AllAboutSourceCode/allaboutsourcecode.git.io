@@ -1,5 +1,5 @@
 ## Welcome
-Hi, Monkseven here. This page primarily devoted for the quick introduction and links for tools which can be useful while developing and maintaining a software. Have a great learning!
+Hi, Monkseven here. This page is primarily devoted for  quick introduction and references for tools which can be useful while developing and maintaining a software. Let the good times roll!
 
 ### CodeAnalyzer
 
